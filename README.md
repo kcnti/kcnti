@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Earth, Kanti
-- 👀 I’m interested in Tech
+- 👀 I’m interested in ???
 - 🌱 I’m currently learning CyberSec, Coding
 - 📫 How to reach me Discord: Kanti#8338
 
