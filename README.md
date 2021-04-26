@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kcnti
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Earth, Kanti
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning CyberSec, Coding
-- 💞️ I’m looking to collaborate on #
 - 📫 How to reach me Discord: Kanti#8338
 
 <!---
