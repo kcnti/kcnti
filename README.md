@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Earth, Kanti
 - 📫 How to reach me Discord: Kanti#8338
 
-- Website: <a href="https://kanti.tk">here</a>
+- Website: <a href="https://kanti.pw">here</a>
 
 <!---
 kcnti/kcnti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
