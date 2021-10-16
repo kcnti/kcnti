@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcnti&theme=dark" />
+
 
 - 👋 Hi, I’m Earth, Kanti
 - 📫 How to reach me Discord: Kanti#8338
