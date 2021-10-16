@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/kcnti/kcnti/readme_header.png "Header")](https://kanti.pw/)
 
 - 👋 Hi, I’m Earth, Kanti
 - 📫 How to reach me Discord: Kanti#8338
