@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcnti&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcnti&theme=dark&layout=compact" />
 
 
 - 👋 Hi, I’m Earth, Kanti
