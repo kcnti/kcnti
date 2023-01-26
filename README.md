@@ -1,7 +1,9 @@
-- 👋 Hello
+<h1 align="center">👋 Hello, I'm Earth</h1>
 
-- Website: <a href="https://kanti.pw">here</a>
+- 📫 How to reach me **6532018321@student.chula.ac.th**
+- ⌨️ Average WPM: 150
 
+🤝
 <!---
 kcnti/kcnti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
