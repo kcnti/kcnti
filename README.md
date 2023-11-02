@@ -2,6 +2,7 @@
 
 - 📫 How to reach me **6532018321@student.chula.ac.th**
 - ⌨️ Average WPM: 150~160 (<a href="https://monkeytype.com/profile/kcnti">Monkeytype</a>)
+- 🧪 :)
 
 🤝
 <!---
