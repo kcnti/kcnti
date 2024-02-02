@@ -10,7 +10,7 @@
 - 2nd place - ค้นหาสุดยอดฝีมือโทรคมนาคมและไอซีทีเทิดพระเกียรติ ครั้งที่ 13 สาขา IoT (Smart NodeMCU)
 - 2nd place - Thailand Cyber Top Talent 2021
 - 4th place - Thailand Cyber Top Talent 2022
-- 1st place - CTF by Cisco
+- 1st place - CTF by Cisco (NCSA Thailand National Cyber Week 2023)
 - 2nd place - Thailand Cyber Top Talent 2023
 - GCC BOOTCAMP REPRESENTATIVE
 <!---
