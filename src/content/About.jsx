@@ -2,8 +2,13 @@ import '../css/About.css'
 import { Container } from 'react-bootstrap'
 import {activities, competition} from '../data/data.js'
 
+import { useDocumentTitle } from '../Utilities.jsx'
+
 
 export default function About () {
+
+    useDocumentTitle('About | kanti')
+
     return (
     <>
         <Container>
