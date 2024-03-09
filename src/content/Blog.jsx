@@ -2,7 +2,12 @@ import '../css/Blog.css'
 
 import { Container } from 'react-bootstrap'
 
+import { useDocumentTitle } from '../Utilities'
+
 export function Blog () {
+
+    useDocumentTitle('Blog | kanti')
+
     return (
         <Container>
             <header>Blog</header>
