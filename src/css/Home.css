@@ -1,0 +1,57 @@
+.header {
+  display: block;
+  width: 20%;
+  margin-top: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.split {
+  border-bottom: thin solid #D5CEA3;
+  margin: 50px auto 50px auto;
+  width: 15%;
+}
+
+.header h1, h4, p {
+  color: #E5E5CB;
+  text-align: center;
+}
+
+.header p {
+  margin-top: -5px;
+}
+
+.hub {
+  display: block;
+  margin-top: 40px;
+  /* height: 80px; */
+}
+
+.hub .portal {
+  padding: 20px 0px 20px 0px;
+  width: 150px;
+  border: 1px solid #D5CEA3;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 0.4s;
+}
+
+.hub span {
+  color: #E5E5CB;
+}
+
+.hub .portal:hover {
+  opacity: 1;
+  font-size: 18px;
+}
+
+.footer {
+  font-size: 12px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  color: #3C2A21;
+  width: 100%;
+  margin: 0 auto 20px auto;
+}

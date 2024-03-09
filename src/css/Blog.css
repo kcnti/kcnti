@@ -1,0 +1,15 @@
+header {
+    font-size: 32px;
+    margin-top: 100px;
+    color: #E5E5CB;
+}
+
+.not-home-split {
+    border-bottom: thin solid #D5CEA3;
+    margin: 20px 0px 20px 0px;
+}
+
+h4 {
+    text-align: left;
+    color: #E5E5CB;
+}
