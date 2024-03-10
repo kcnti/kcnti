@@ -1,10 +1,12 @@
+import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import Home from './content/Home'
 import About from './content/About'
+import Blog from './content/Blog';
+import { MarkdownBlog } from './components/Blogs';
 
 import './App.css';
-import { Blog } from './content/Blog';
 
 function App() {
 
@@ -14,7 +16,10 @@ function App() {
       <Routes>
         <Route path='/' element={ <Home /> } />
         <Route path='/about' element={ <About /> } />
-        <Route path='/blog' element={ <Blog /> } />
+        <Route path='/blog'>
+          <Route index element={ <Blog /> } />
+          <Route path=':blogName' element={ <MarkdownBlog /> } />
+        </Route>
       </Routes>
     </BrowserRouter>
     </>
