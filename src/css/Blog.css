@@ -4,12 +4,66 @@ header {
     color: #E5E5CB;
 }
 
+sub-header {
+    font-size: 16px;
+    color: #E5E5CB;
+}
+
 .not-home-split {
     border-bottom: thin solid #D5CEA3;
     margin: 20px 0px 20px 0px;
 }
 
-h4 {
-    text-align: left;
+.blog {
+    margin-top: 5px;
+    width: 100%;
+    padding: 15px 20px;
+    border: 1px solid #D5CEA3;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.4s;
+}
+
+.blog:hover {
+    opacity: 1;
+}
+
+.blog h4 {
     color: #E5E5CB;
+    width: auto;
+}
+
+.blog p {
+    text-align: left;
+    margin: 0;
+    color: #D5CEA3;
+}
+
+.blog span.date {
+    font-size: 10px;
+    color: #E5E5CB;
+}
+
+sub-header span.date {
+    font-size: 12px;
+    color: #D5CEA3;
+    display: block;
+}
+
+.markdown {
+    width: auto;
+}
+
+.markdown h1, h2, p {
+    text-align: left;
+    color: #D5CEA3;
+}
+
+.markdown p {
+    letter-spacing: 0.5px;
+}
+
+.markdown img {
+    width: 100%;
 }
