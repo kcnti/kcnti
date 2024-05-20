@@ -4,7 +4,7 @@
 - 📫 How to reach me **6532018321@student.chula.ac.th**
 - 🛜 <a href="https://kanti.pw">My website</a>
 - ⌨️ Average WPM: 150~160 (<a href="https://monkeytype.com/profile/kcnti">Monkeytype</a>)
-- 🧪 :)
+- 🧪 chemical engineering
 
 <h1 align="center">Honors & Awards</h1>
 
