@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">👋 Hello, I'm Earth</h1>
 
 - 📫 How to reach me **6532018321@student.chula.ac.th**
